@@ -1,5 +1,5 @@
 # cs207test
-Homework 5: Learning to set up and utilize Continuous Integration (CI)
+Homework 5: Learning to set up and utilize Continuous Integration (CI) and Coveralls
 
 ![Build Status](https://travis-ci.org/hsim13372/cs207test.svg?branch=master)
 
